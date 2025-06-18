@@ -7,7 +7,7 @@ $uid = $user['id'];
 ?>
 <!DOCTYPE html>
 <html lang="ms">
-<head><meta charset="UTF-8"><title>Easy Grocer - Home</title>
+<head><meta charset="UTF-8"><title>Bujang Grocer - Home</title>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 <style>
 body{font-family:'Segoe UI',sans-serif;background:#f3f7fa}
